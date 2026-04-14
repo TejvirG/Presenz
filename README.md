@@ -97,6 +97,3 @@ The Flutter frontend includes:
 - For local development, update the API base URL in the frontend configuration file.
 - Sensitive files such as `.env` are excluded from version control.
 
-## Submission ready
-
-This repository is prepared for submission with a complete backend API, authentication, database models, and frontend interface. The project is structured, documented, and ready for review.
