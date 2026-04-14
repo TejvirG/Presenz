@@ -16,6 +16,7 @@ frontend/.flutter-plugins-dependencies
 frontend/.metadata
 frontend/.gradle/
 frontend/ios/Pods/
+frontend/ios/Flutter/
 frontend/.idea/
 frontend/.vscode/
 
